@@ -2,6 +2,8 @@
 
 A simple command-line interface (CLI) application to track and manage your tasks. Built with Go.
 
+**Project URL:** https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - Add, update, and delete tasks
