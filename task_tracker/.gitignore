@@ -1,0 +1,22 @@
+# Binaries
+task-cli
+task-cli.exe
+
+# Task data
+tasks.json
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
