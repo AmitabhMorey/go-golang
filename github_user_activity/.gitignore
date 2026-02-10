@@ -1,0 +1,23 @@
+# Binaries
+github-activity
+github-activity.exe
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
